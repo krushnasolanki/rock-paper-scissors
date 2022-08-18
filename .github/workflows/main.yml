@@ -34,5 +34,5 @@ jobs:
         run: ls-a 
         
       - name: step 5 - what is in the target folder?
-        run: cd targe
+        run: cd target
               ls -a 
